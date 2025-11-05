@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Harassment Detection",
+    "desc": "An interactive browser-based demo for real-time detection of Bengali cyberbullying & harassment using concepts from mBERT, XAI.",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "https://gazi3jahin.github.io/Final-Year-Thesis-Project-Demo-/",
+      "code": "https://github.com/Gazi3Jahin/Final-Year-Thesis-Project-Demo-"
+    }
+  },
+  {
+    "name": "NID System",
+    "desc": "This project is a demo web application for Network Intrusion Detection using a Random Forest classifier.",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "https://nids-demo-snxut825dynpke3so3j9yk.streamlit.app/",
+      "code": "https://github.com/Gazi3Jahin/nids-demo"
+    }
+  },
+  {
+    "name": "Flood Resilience Dashboard",
+    "desc": "Computing Flood Resilience Index (FRI), predicting crop yield, and exploring scenario analysis at the division level with SHAP.",
+    "image": "",
+    "category": "mern",
+    "links": {
+      "view": "https://flood-resilience-eejysecr4pqylbax8qfqs9.streamlit.app/",
+      "code": "https://github.com/Gazi3Jahin/flood-resilience"
+    }
+  }
+]

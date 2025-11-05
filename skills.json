@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+    {
+        "name": "PyTorch",
+        "icon": "assets/images/pyt.png"
+    },
+    {
+        "name": "Scikit-learn",
+        "icon": "assets/images/R.jpg"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/000000/opencv.png"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/color/48/000000/matplotlib.png"
+    },
+    {
+        "name": "NLTK",
+        "icon": "assets/images/nltk.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Streamlit",
+        "icon": "https://img.icons8.com/color/48/000000/streamlit.png"
+    },
+    {
+        "name": "FastAPI",
+        "icon": "assets/images/fast.jpg"
+    },
+    {
+        "name": "Scrapy",
+        "icon": "assets/images/scar.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/color/48/000000/google-colab.png"
+    },
+    {
+        "name": "Jupyter Notebook",
+        "icon": "assets/images/fe1ee6a4-0ed1-4c89-82ab-cb7bfee80ac2_rwc_885x0x2051x1603x2051.png"
+    },
+    {
+        "name": "MS Office",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-office-2019.png"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"
+    },
+    {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    },
+    {
+        "name": "Trello",
+        "icon": "https://img.icons8.com/color/48/000000/trello.png"
+    }
+]
